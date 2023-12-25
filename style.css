@@ -891,7 +891,7 @@ body.dark .nav-center .nav-link:hover {
 
   .hero,
   .hero .glide__slides {
-  max-height: calc(100vh - 10rem);
+  max-height: calc(100vh - 12rem);
  }
 }
 
@@ -905,7 +905,7 @@ Hero Area
 .hero .glide__slides {
   background-color: var(--grey2);
   position: relative;
-  height: calc(100vh - 10rem);
+  height: calc(100vh - 12rem);
   margin: 0 0rem;
   overflow: hidden;
 }
